@@ -1,0 +1,466 @@
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (2134969cda2cb99c5cb159c0b9ea960c)] -> link text: Sign in]
+Entering EmailID:qatest9599@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (2134969cda2cb99c5cb159c0b9ea960c)] -> id: email_create]
+X]Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (2134969cda2cb99c5cb159c0b9ea960c)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (2134969cda2cb99c5cb159c0b9ea960c)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (2134969cda2cb99c5cb159c0b9ea960c)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (2134969cda2cb99c5cb159c0b9ea960c)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (2134969cda2cb99c5cb159c0b9ea960c)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (2134969cda2cb99c5cb159c0b9ea960c)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (a0180b367d81686926cc0eb3850912d4)] -> link text: Sign in]
+Entering EmailID:qatest9932@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (a0180b367d81686926cc0eb3850912d4)] -> id: email_create]
+X]Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (a0180b367d81686926cc0eb3850912d4)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (a0180b367d81686926cc0eb3850912d4)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (a0180b367d81686926cc0eb3850912d4)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (a0180b367d81686926cc0eb3850912d4)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (a0180b367d81686926cc0eb3850912d4)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (a0180b367d81686926cc0eb3850912d4)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:Proxy element for: DefaultElementLocator 'By.linkText: Sign in'
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (e7691951369c11866a4b5d2acb44d8e6)] -> link text: Sign in]
+Entering EmailID:qatest5179@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (e7691951369c11866a4b5d2acb44d8e6)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (e7691951369c11866a4b5d2acb44d8e6)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (e7691951369c11866a4b5d2acb44d8e6)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (e7691951369c11866a4b5d2acb44d8e6)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (e7691951369c11866a4b5d2acb44d8e6)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (e7691951369c11866a4b5d2acb44d8e6)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (e7691951369c11866a4b5d2acb44d8e6)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (6733c6bb8d85b406b535ad66ad524cae)] -> link text: Sign in]
+Entering EmailID:qatest6793@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (6733c6bb8d85b406b535ad66ad524cae)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (6733c6bb8d85b406b535ad66ad524cae)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (6733c6bb8d85b406b535ad66ad524cae)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (6733c6bb8d85b406b535ad66ad524cae)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (6733c6bb8d85b406b535ad66ad524cae)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (6733c6bb8d85b406b535ad66ad524cae)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (6733c6bb8d85b406b535ad66ad524cae)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (6edc1004bce7436b29b06abe3cb5ffc6)] -> link text: Sign in]
+Entering EmailID:qatest657@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (6edc1004bce7436b29b06abe3cb5ffc6)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (6edc1004bce7436b29b06abe3cb5ffc6)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (6edc1004bce7436b29b06abe3cb5ffc6)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (6edc1004bce7436b29b06abe3cb5ffc6)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (6edc1004bce7436b29b06abe3cb5ffc6)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (6edc1004bce7436b29b06abe3cb5ffc6)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (6edc1004bce7436b29b06abe3cb5ffc6)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (86802d1229611145ec10eddb02153e6f)] -> link text: Sign in]
+Entering EmailID:qatest414@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (86802d1229611145ec10eddb02153e6f)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (86802d1229611145ec10eddb02153e6f)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (86802d1229611145ec10eddb02153e6f)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (86802d1229611145ec10eddb02153e6f)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (86802d1229611145ec10eddb02153e6f)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (86802d1229611145ec10eddb02153e6f)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (86802d1229611145ec10eddb02153e6f)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (7baf5f2112eed470b6a05585d9dd712e)] -> link text: Sign in]
+Entering EmailID:qatest352@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (7baf5f2112eed470b6a05585d9dd712e)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (7baf5f2112eed470b6a05585d9dd712e)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (7baf5f2112eed470b6a05585d9dd712e)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (7baf5f2112eed470b6a05585d9dd712e)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (7baf5f2112eed470b6a05585d9dd712e)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (7baf5f2112eed470b6a05585d9dd712e)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (7baf5f2112eed470b6a05585d9dd712e)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (c1c50c103efaabce4781dea7a1794f7c)] -> link text: Sign in]
+Entering EmailID:qatest4965@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (c1c50c103efaabce4781dea7a1794f7c)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (c1c50c103efaabce4781dea7a1794f7c)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (c1c50c103efaabce4781dea7a1794f7c)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (c1c50c103efaabce4781dea7a1794f7c)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (c1c50c103efaabce4781dea7a1794f7c)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (c1c50c103efaabce4781dea7a1794f7c)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (c1c50c103efaabce4781dea7a1794f7c)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (1caea5168fd3355ed565fa47983246c3)] -> link text: Sign in]
+Entering EmailID:qatest1284@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (1caea5168fd3355ed565fa47983246c3)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (1caea5168fd3355ed565fa47983246c3)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (1caea5168fd3355ed565fa47983246c3)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (1caea5168fd3355ed565fa47983246c3)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (1caea5168fd3355ed565fa47983246c3)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (1caea5168fd3355ed565fa47983246c3)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (1caea5168fd3355ed565fa47983246c3)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (14f1d829df094b33d902ba3307ef6543)] -> link text: Sign in]
+Entering EmailID:qatest41@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (14f1d829df094b33d902ba3307ef6543)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (14f1d829df094b33d902ba3307ef6543)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (14f1d829df094b33d902ba3307ef6543)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (14f1d829df094b33d902ba3307ef6543)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (14f1d829df094b33d902ba3307ef6543)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (14f1d829df094b33d902ba3307ef6543)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (14f1d829df094b33d902ba3307ef6543)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (9d6520251e4c4b16b03c16fa2cb75d48)] -> link text: Sign in]
+Entering EmailID:qatest5146@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (9d6520251e4c4b16b03c16fa2cb75d48)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (9d6520251e4c4b16b03c16fa2cb75d48)] -> id: SubmitCreate]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (4a695371a2a82cfbed2e2ae97cb8f6d6)] -> link text: Sign in]
+Entering EmailID:qatest5459@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (4a695371a2a82cfbed2e2ae97cb8f6d6)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (4a695371a2a82cfbed2e2ae97cb8f6d6)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (4a695371a2a82cfbed2e2ae97cb8f6d6)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (4a695371a2a82cfbed2e2ae97cb8f6d6)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (4a695371a2a82cfbed2e2ae97cb8f6d6)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (4a695371a2a82cfbed2e2ae97cb8f6d6)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (4a695371a2a82cfbed2e2ae97cb8f6d6)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (2b29294138c1c239a6b5b342956f2207)] -> link text: Sign in]
+Entering EmailID:qatest7427@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (2b29294138c1c239a6b5b342956f2207)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (2b29294138c1c239a6b5b342956f2207)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (2b29294138c1c239a6b5b342956f2207)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (2b29294138c1c239a6b5b342956f2207)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (2b29294138c1c239a6b5b342956f2207)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (2b29294138c1c239a6b5b342956f2207)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (2b29294138c1c239a6b5b342956f2207)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:Proxy element for: DefaultElementLocator 'By.linkText: Sign in'
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (d26e0077931d1fd69383e8319301c43a)] -> link text: Sign in]
+Entering EmailID:qatest5362@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (d26e0077931d1fd69383e8319301c43a)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (d26e0077931d1fd69383e8319301c43a)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (d26e0077931d1fd69383e8319301c43a)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (d26e0077931d1fd69383e8319301c43a)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (d26e0077931d1fd69383e8319301c43a)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (d26e0077931d1fd69383e8319301c43a)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (d26e0077931d1fd69383e8319301c43a)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (58639bde0a45937428ef9b424b90deb5)] -> link text: Sign in]
+Entering EmailID:qatest8192@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (58639bde0a45937428ef9b424b90deb5)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (58639bde0a45937428ef9b424b90deb5)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (58639bde0a45937428ef9b424b90deb5)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (58639bde0a45937428ef9b424b90deb5)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (58639bde0a45937428ef9b424b90deb5)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (58639bde0a45937428ef9b424b90deb5)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (58639bde0a45937428ef9b424b90deb5)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (7ed60da8b58d2e8ac9214eb58efe8d46)] -> link text: Sign in]
+Entering EmailID:qatest2154@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (7ed60da8b58d2e8ac9214eb58efe8d46)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (7ed60da8b58d2e8ac9214eb58efe8d46)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (7ed60da8b58d2e8ac9214eb58efe8d46)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (7ed60da8b58d2e8ac9214eb58efe8d46)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (7ed60da8b58d2e8ac9214eb58efe8d46)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (7ed60da8b58d2e8ac9214eb58efe8d46)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (7ed60da8b58d2e8ac9214eb58efe8d46)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (fb404ac7b18bd3a92d4b30a124747a25)] -> link text: Sign in]
+Entering EmailID:qatest7798@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (fb404ac7b18bd3a92d4b30a124747a25)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (fb404ac7b18bd3a92d4b30a124747a25)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (fb404ac7b18bd3a92d4b30a124747a25)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (fb404ac7b18bd3a92d4b30a124747a25)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (fb404ac7b18bd3a92d4b30a124747a25)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (fb404ac7b18bd3a92d4b30a124747a25)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (fb404ac7b18bd3a92d4b30a124747a25)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (279730de506d47283999015bc67ebdad)] -> link text: Sign in]
+Entering EmailID:qatest2207@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (279730de506d47283999015bc67ebdad)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (279730de506d47283999015bc67ebdad)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (279730de506d47283999015bc67ebdad)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (279730de506d47283999015bc67ebdad)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (279730de506d47283999015bc67ebdad)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (279730de506d47283999015bc67ebdad)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (279730de506d47283999015bc67ebdad)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (ee85384130874b868f890fe84fec68a4)] -> link text: Sign in]
+Entering EmailID:qatest102@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (ee85384130874b868f890fe84fec68a4)] -> id: email_create]
+X]Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (ee85384130874b868f890fe84fec68a4)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (ee85384130874b868f890fe84fec68a4)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (ee85384130874b868f890fe84fec68a4)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (ee85384130874b868f890fe84fec68a4)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (ee85384130874b868f890fe84fec68a4)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (ee85384130874b868f890fe84fec68a4)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (80670cf286202e1ac9e7eaaadcc80fcc)] -> link text: Sign in]
+Entering EmailID:qatest4077@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (80670cf286202e1ac9e7eaaadcc80fcc)] -> id: email_create]
+X]Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (80670cf286202e1ac9e7eaaadcc80fcc)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (80670cf286202e1ac9e7eaaadcc80fcc)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (80670cf286202e1ac9e7eaaadcc80fcc)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (80670cf286202e1ac9e7eaaadcc80fcc)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (80670cf286202e1ac9e7eaaadcc80fcc)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (80670cf286202e1ac9e7eaaadcc80fcc)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (74afcdff6a4ec00f771f75acd9d8e773)] -> link text: Sign in]
+Entering EmailID:qatest9520@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (74afcdff6a4ec00f771f75acd9d8e773)] -> id: email_create]
+X]Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (74afcdff6a4ec00f771f75acd9d8e773)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (74afcdff6a4ec00f771f75acd9d8e773)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (74afcdff6a4ec00f771f75acd9d8e773)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (74afcdff6a4ec00f771f75acd9d8e773)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (74afcdff6a4ec00f771f75acd9d8e773)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (74afcdff6a4ec00f771f75acd9d8e773)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (9bc7f79367476dc0c1bd2020d21e56b9)] -> link text: Sign in]
+Entering EmailID:qatest497@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (9bc7f79367476dc0c1bd2020d21e56b9)] -> id: email_create]
+X]Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (9bc7f79367476dc0c1bd2020d21e56b9)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (9bc7f79367476dc0c1bd2020d21e56b9)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (9bc7f79367476dc0c1bd2020d21e56b9)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (9bc7f79367476dc0c1bd2020d21e56b9)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (9bc7f79367476dc0c1bd2020d21e56b9)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (9bc7f79367476dc0c1bd2020d21e56b9)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (c8505cbdb7982a148a8b7853fc656104)] -> link text: Sign in]
+Entering EmailID:qatest4710@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (c8505cbdb7982a148a8b7853fc656104)] -> id: email_create]
+X]Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (c8505cbdb7982a148a8b7853fc656104)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (c8505cbdb7982a148a8b7853fc656104)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (c8505cbdb7982a148a8b7853fc656104)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (c8505cbdb7982a148a8b7853fc656104)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (c8505cbdb7982a148a8b7853fc656104)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (c8505cbdb7982a148a8b7853fc656104)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:Proxy element for: DefaultElementLocator 'By.linkText: Sign in'
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (364314905df548e2fc764adddde78dc9)] -> link text: Sign in]
+Entering EmailID:qatest7774@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (364314905df548e2fc764adddde78dc9)] -> id: email_create]
+X]Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (364314905df548e2fc764adddde78dc9)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (364314905df548e2fc764adddde78dc9)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (364314905df548e2fc764adddde78dc9)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (364314905df548e2fc764adddde78dc9)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (364314905df548e2fc764adddde78dc9)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (364314905df548e2fc764adddde78dc9)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (dc2e24798a32e09f83c7af4e94fb00d9)] -> link text: Sign in]
+Entering EmailID:qatest4952@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (dc2e24798a32e09f83c7af4e94fb00d9)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (dc2e24798a32e09f83c7af4e94fb00d9)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (dc2e24798a32e09f83c7af4e94fb00d9)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (dc2e24798a32e09f83c7af4e94fb00d9)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (dc2e24798a32e09f83c7af4e94fb00d9)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (dc2e24798a32e09f83c7af4e94fb00d9)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (dc2e24798a32e09f83c7af4e94fb00d9)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (d0db6f95d486d7977282f6bedd263aa0)] -> link text: Sign in]
+Entering EmailID:qatest2898@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (d0db6f95d486d7977282f6bedd263aa0)] -> id: email_create]
+X]Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (d0db6f95d486d7977282f6bedd263aa0)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (d0db6f95d486d7977282f6bedd263aa0)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (d0db6f95d486d7977282f6bedd263aa0)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (d0db6f95d486d7977282f6bedd263aa0)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (d0db6f95d486d7977282f6bedd263aa0)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (d0db6f95d486d7977282f6bedd263aa0)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:Proxy element for: DefaultElementLocator 'By.linkText: Sign in'
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (ec69c16ec79917022ff41fed80f3bcfd)] -> link text: Sign in]
+Entering EmailID:qatest2492@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (ec69c16ec79917022ff41fed80f3bcfd)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (7d1f38b4f020da8694c267f6c8f7af14)] -> link text: Sign in]
+Entering EmailID:qatest5744@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (7d1f38b4f020da8694c267f6c8f7af14)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (7a0e5bf428c69bfe6813788587e720d6)] -> link text: Sign in]
+Entering EmailID:qatest5057@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (7a0e5bf428c69bfe6813788587e720d6)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (7a0e5bf428c69bfe6813788587e720d6)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (7a0e5bf428c69bfe6813788587e720d6)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (7a0e5bf428c69bfe6813788587e720d6)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (7a0e5bf428c69bfe6813788587e720d6)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (7a0e5bf428c69bfe6813788587e720d6)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (7a0e5bf428c69bfe6813788587e720d6)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (59a17526c1757584fb2c3183e50c78f7)] -> link text: Sign in]
+Entering EmailID:qatest4566@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (59a17526c1757584fb2c3183e50c78f7)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (59a17526c1757584fb2c3183e50c78f7)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (59a17526c1757584fb2c3183e50c78f7)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (59a17526c1757584fb2c3183e50c78f7)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (59a17526c1757584fb2c3183e50c78f7)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (59a17526c1757584fb2c3183e50c78f7)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (59a17526c1757584fb2c3183e50c78f7)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (62285883bf054dae3f766f5412d24805)] -> link text: Sign in]
+Entering EmailID:qatest919@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (62285883bf054dae3f766f5412d24805)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (62285883bf054dae3f766f5412d24805)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (62285883bf054dae3f766f5412d24805)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (62285883bf054dae3f766f5412d24805)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (62285883bf054dae3f766f5412d24805)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (62285883bf054dae3f766f5412d24805)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (62285883bf054dae3f766f5412d24805)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (40e57d564ca8669b69e34e33e4626a24)] -> link text: Sign in]
+Entering EmailID:qatest8063@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (40e57d564ca8669b69e34e33e4626a24)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (40e57d564ca8669b69e34e33e4626a24)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (40e57d564ca8669b69e34e33e4626a24)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (40e57d564ca8669b69e34e33e4626a24)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (40e57d564ca8669b69e34e33e4626a24)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (40e57d564ca8669b69e34e33e4626a24)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (40e57d564ca8669b69e34e33e4626a24)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (bff85edaaadfeabbeb01ddc49907de70)] -> link text: Sign in]
+Entering EmailID:qatest977@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (bff85edaaadfeabbeb01ddc49907de70)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (bff85edaaadfeabbeb01ddc49907de70)] -> id: SubmitCreate]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (d51fcdd54a470f8349202b3827924a40)] -> link text: Sign in]
+Entering EmailID:qatest8943@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (d51fcdd54a470f8349202b3827924a40)] -> id: email_create]
+X]Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (d51fcdd54a470f8349202b3827924a40)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (d51fcdd54a470f8349202b3827924a40)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (d51fcdd54a470f8349202b3827924a40)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (d51fcdd54a470f8349202b3827924a40)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (d51fcdd54a470f8349202b3827924a40)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (d51fcdd54a470f8349202b3827924a40)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (d8dd6f47867476a152c2d015f07da919)] -> link text: Sign in]
+Entering EmailID:qatest872@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (d8dd6f47867476a152c2d015f07da919)] -> id: email_create]
+X]Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (d8dd6f47867476a152c2d015f07da919)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (d8dd6f47867476a152c2d015f07da919)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (d8dd6f47867476a152c2d015f07da919)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (d8dd6f47867476a152c2d015f07da919)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (d8dd6f47867476a152c2d015f07da919)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (d8dd6f47867476a152c2d015f07da919)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (b9ec974abf1219b507a30615a88e2e05)] -> link text: Sign in]
+Entering EmailID:qatest6990@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (b9ec974abf1219b507a30615a88e2e05)] -> id: email_create]
+X]Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (b9ec974abf1219b507a30615a88e2e05)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (b9ec974abf1219b507a30615a88e2e05)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (b9ec974abf1219b507a30615a88e2e05)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (b9ec974abf1219b507a30615a88e2e05)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (b9ec974abf1219b507a30615a88e2e05)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (b9ec974abf1219b507a30615a88e2e05)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (91ce1f5e1e4b426537f16b9545169688)] -> link text: Sign in]
+Entering EmailID:qatest9080@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (91ce1f5e1e4b426537f16b9545169688)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (cbffcbb2cecbb75af22f9f5702d78828)] -> link text: Sign in]
+Entering EmailID:qatest9097@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (cbffcbb2cecbb75af22f9f5702d78828)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (2f29c210664945434e6d1c2e77d2b319)] -> link text: Sign in]
+Entering EmailID:qatest8404@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (2f29c210664945434e6d1c2e77d2b319)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (20d32da97976442d321f245bca3518f4)] -> link text: Sign in]
+Entering EmailID:qatest9533@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (20d32da97976442d321f245bca3518f4)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (20d32da97976442d321f245bca3518f4)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (20d32da97976442d321f245bca3518f4)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (20d32da97976442d321f245bca3518f4)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (20d32da97976442d321f245bca3518f4)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (20d32da97976442d321f245bca3518f4)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (20d32da97976442d321f245bca3518f4)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (62584c83a6a14f4059a358133d364629)] -> link text: Sign in]
+Entering EmailID:qatest6627@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (62584c83a6a14f4059a358133d364629)] -> id: email_create]
+Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (62584c83a6a14f4059a358133d364629)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (62584c83a6a14f4059a358133d364629)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (62584c83a6a14f4059a358133d364629)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (62584c83a6a14f4059a358133d364629)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (62584c83a6a14f4059a358133d364629)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (62584c83a6a14f4059a358133d364629)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (4258508e95e1fa3cf333b8632f67b46d)] -> link text: Sign in]
+Entering EmailID:qatest8067@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (4258508e95e1fa3cf333b8632f67b46d)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (4258508e95e1fa3cf333b8632f67b46d)] -> link text: Sign in]
+Entering EmailID:qatest2814@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (4258508e95e1fa3cf333b8632f67b46d)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (4258508e95e1fa3cf333b8632f67b46d)] -> link text: Sign in]
+Entering EmailID:qatest9944@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (4258508e95e1fa3cf333b8632f67b46d)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (4258508e95e1fa3cf333b8632f67b46d)] -> link text: Sign in]
+Entering EmailID:qatest9805@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (4258508e95e1fa3cf333b8632f67b46d)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (5ceb86c5151d253ee8c67fb09e6182e6)] -> link text: Sign in]
+Entering EmailID:qatest1901@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (5ceb86c5151d253ee8c67fb09e6182e6)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (5ceb86c5151d253ee8c67fb09e6182e6)] -> link text: Sign in]
+Entering EmailID:qatest3250@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (5ceb86c5151d253ee8c67fb09e6182e6)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (5ceb86c5151d253ee8c67fb09e6182e6)] -> link text: Sign in]
+Entering EmailID:qatest8373@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (5ceb86c5151d253ee8c67fb09e6182e6)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (5ceb86c5151d253ee8c67fb09e6182e6)] -> link text: Sign in]
+Entering EmailID:qatest6678@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (5ceb86c5151d253ee8c67fb09e6182e6)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (b8cf0ea636934f8bd2db6ab43973c192)] -> link text: Sign in]
+Entering EmailID:qatest1709@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (b8cf0ea636934f8bd2db6ab43973c192)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (b8cf0ea636934f8bd2db6ab43973c192)] -> link text: Sign in]
+Entering EmailID:qatest3371@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (b8cf0ea636934f8bd2db6ab43973c192)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (b8cf0ea636934f8bd2db6ab43973c192)] -> link text: Sign in]
+Entering EmailID:qatest2500@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (b8cf0ea636934f8bd2db6ab43973c192)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (b8cf0ea636934f8bd2db6ab43973c192)] -> link text: Sign in]
+Entering EmailID:qatest7927@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (b8cf0ea636934f8bd2db6ab43973c192)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (276c50aff7b2a8ee9c404da732f9c47a)] -> link text: Sign in]
+Entering EmailID:qatest3407@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (276c50aff7b2a8ee9c404da732f9c47a)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (276c50aff7b2a8ee9c404da732f9c47a)] -> link text: Sign in]
+Entering EmailID:qatest4196@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (276c50aff7b2a8ee9c404da732f9c47a)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (276c50aff7b2a8ee9c404da732f9c47a)] -> link text: Sign in]
+Entering EmailID:qatest4319@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (276c50aff7b2a8ee9c404da732f9c47a)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (276c50aff7b2a8ee9c404da732f9c47a)] -> link text: Sign in]
+Entering EmailID:qatest7975@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (276c50aff7b2a8ee9c404da732f9c47a)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (c2606b3642feb1ef11d42162268e6961)] -> link text: Sign in]
+Entering EmailID:qatest2225@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (c2606b3642feb1ef11d42162268e6961)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (20c416fee1b896baf74a7434be60aa4d)] -> link text: Sign in]
+Entering EmailID:qatest6621@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (20c416fee1b896baf74a7434be60aa4d)] -> id: email_create]
+X]Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (20c416fee1b896baf74a7434be60aa4d)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (20c416fee1b896baf74a7434be60aa4d)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (20c416fee1b896baf74a7434be60aa4d)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (20c416fee1b896baf74a7434be60aa4d)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (20c416fee1b896baf74a7434be60aa4d)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (20c416fee1b896baf74a7434be60aa4d)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (17062fe4f56af74eedbe5e9857e215d5)] -> link text: Sign in]
+Entering EmailID:qatest3574@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (17062fe4f56af74eedbe5e9857e215d5)] -> id: email_create]
+X]Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (17062fe4f56af74eedbe5e9857e215d5)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (17062fe4f56af74eedbe5e9857e215d5)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (17062fe4f56af74eedbe5e9857e215d5)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (17062fe4f56af74eedbe5e9857e215d5)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (17062fe4f56af74eedbe5e9857e215d5)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (17062fe4f56af74eedbe5e9857e215d5)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (dd8117aabd5e489224be1d870a592b3c)] -> link text: Sign in]
+Entering EmailID:qatest4770@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (dd8117aabd5e489224be1d870a592b3c)] -> id: email_create]
+X]Clicking on create an account:[[ChromeDriver: chrome on WINDOWS (dd8117aabd5e489224be1d870a592b3c)] -> id: SubmitCreate]
+Verifying customer info page by using object:[[ChromeDriver: chrome on WINDOWS (dd8117aabd5e489224be1d870a592b3c)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr.radio button by using object:[[ChromeDriver: chrome on WINDOWS (dd8117aabd5e489224be1d870a592b3c)] -> id: id_gender1]
+Entering first name by using object:[[ChromeDriver: chrome on WINDOWS (dd8117aabd5e489224be1d870a592b3c)] -> id: customer_firstname]
+Entering last name by using object:[[ChromeDriver: chrome on WINDOWS (dd8117aabd5e489224be1d870a592b3c)] -> id: customer_lastname]
+Entering password by using object:[[ChromeDriver: chrome on WINDOWS (dd8117aabd5e489224be1d870a592b3c)] -> id: passwd]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (8900c84f2d642278de6220a69c2bf0ab)] -> link text: Sign in]
+Entering EmailID:qatest711@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (8900c84f2d642278de6220a69c2bf0ab)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIn button with object:[[ChromeDriver: chrome on WINDOWS (ff264da5b6657ba4ae80a9d599716f98)] -> link text: Sign in]
+Entering EmailID:qatest1806@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (ff264da5b6657ba4ae80a9d599716f98)] -> id: email_create]
